@@ -1,7 +1,7 @@
 +++
 author = "Isa Chavarria"
-title = "Coronavirus en Costa Rica"
-date = "2020-03-02"
+title = "Coronavirus el inicio en Costa Rica"
+date = "2020-08-08"
 description = "Como se presento el primer caso de coronavirus en Costa Rica."
 tags = [
     "Covid",
