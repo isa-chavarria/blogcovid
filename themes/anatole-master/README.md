@@ -52,8 +52,8 @@ git submodule update --remote --merge
 ### Profile picture and slogan
 ```toml
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "I'm Isa Chavarria"
+author = "Isa Chavarria"
 description = "Call me Jane"
 profilePicture = "images/profile.jpg"
 ```
