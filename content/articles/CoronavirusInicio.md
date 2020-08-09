@@ -23,7 +23,7 @@ Convirtiéndose así en el primer caso positivo de COVID 19 en Costa Rica y en C
 Para el 7 de abril del 2020, es decir solo un mes después del primer caso Costa Rica ya registraba 483 casos acumulados. Como se logra observar en el siguiente grafico:
 
 
- ![graphic](/img/April7.png).
+ ![graphic](/img/April7.png)
  
 Un equipo del [Observatorio del Desarrollo (OdD)](https://oddapp2.shinyapps.io/CoronavirusCostaRica/)de la Universidad de Costa Rica, creó una plataforma digital interactiva para visualizar datos oficiales y actualizados del Ministerio de Salud, sobre el COVID-19 a nivel nacional y cantonal.
 La aplicación web pone a disposición del público un histórico de los casos confirmados y descartados desde el inicio de la pandemia, lo que permite identificar la evolución del virus en el transcurso del tiempo. Además, existe una sección donde es posible visualizar comparaciones en el número de casos por cantón.
@@ -39,6 +39,6 @@ Los casos siguen aumentando y no se salida pronta a la incertidumbre generada po
 *	Usar mascarilla
 
 Imagen tomada de la pagina del Ministerio de Salud
-![recommendations](/img/recomendaciones.jpg).
+![recommendations](/img/recomendaciones.jpg)
 
 
