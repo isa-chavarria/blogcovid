@@ -1,14 +1,12 @@
 +++
 author = "Isa Chavarria"
-title = "Tratamiento contra el Covid Costa Rica"
-date = "2020-08-10"
-description = "Un tratamiento creado por costarricenses"
+title = "Tratamiento contra el COVID-19 a base de plasma de caballos"
+date = "2020-08-08"
+description = "Un tratamiento para el coronavirus desarrollado en Costa Rica."
 tags = [
-    "Covid",
+    "Covid","Costa Rica",
 ]
 +++
-
-
 
 Este nuevo virus que vino para quedarse, el Coronavirus vino a dar un giro de 360 grados y no solo en Costa Rica esto es algo mundial. Las cosas son distintas ahora, nos recomiendan estar en casa, mantenernos alejados de aquellos a los que amamos por no convivir con ellos es decir no ser parte de nuestra misma burbuja social. Lugares y comercios cerrados obligando a los pocos que quedan abiertos a tratar de reinventarse para seguir a flote. 
 
@@ -22,7 +20,7 @@ Siguen y siguen en aumento las personas infectadas, alcanzando cifras increíble
 
 El día 28 de Julio a muchos costarricenses se nos salían las lagrimas y no podíamos con el orgullo al ver la noticia de que los análisis realizados en Estados Unidos habían revelado que las dos formulaciones de anticuerpos equinos preparadas en el Instituto Clodomiro Picado de la Universidad de Costa Rica, a partir de plasma de caballos hiperinmunizados, son capaces de inhibir el coronavirus SARS-CoV-2 que produce la COVID-19. Los estudios permitieron demostrar que este plasma es 100 veces más potente que el plasma convaleciente que se obtiene de humanos. 
 
- ![graphic](/img/suero.jpg)
+ ![suero](/img/suero.jpg)
 
 La siguiente prueba que deberán pasar las formulaciones será el estudio clínico que efectuará la Caja, el cual definirá de manera concluyente, si estas serán eficaces para el tratamiento de los pacientes con COVID-19. Estos ensayos clínicos se aplicarán inicialmente en 24 pacientes. 
 
@@ -33,6 +31,6 @@ La UCR informó que un grupo de profesionales de la CCSS y de la Escuela de Medi
 ***!Esto es lo que deja la inversión en EDUCACIÓN y SALUD;GRACIAS INSTITUTO CLODOMIRO PICADO por demostrar el talento humano con el que contamos en nuestro país!***
 
 
- ![graphic](/img/upublica.jpg)
+ ![upublica](/img/upublica.jpg)
 
 

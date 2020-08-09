@@ -4,7 +4,7 @@ title = "Coronavirus el inicio en Costa Rica"
 date = "2020-08-08"
 description = "Como se presento el primer caso de coronavirus en Costa Rica."
 tags = [
-    "Covid",
+    "Covid","Costa Rica",
 ]
 +++
 
