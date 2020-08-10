@@ -1,9 +1,8 @@
-
 +++
 author = "Isa Chavarria"
 title = "Coronavirus la otra cara de Costa Rica"
-date = "2020-08-09"
-description = "La otra cara del virus"
+date = "2020-08-10"
+description = "Restricciones sanitarias"
 tags = [
     "Covid","Costa Rica",
 ]
