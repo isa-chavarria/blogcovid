@@ -1,6 +1,6 @@
 +++
 author = "Isa Chavarria"
-title = "Diferencias inexplicables"
+title = "Restricciones sanitarias para unos y no todos"
 date = "2020-08-09"
 description = "Restriccion sanitaria en Costa Rica y sus diferencias inexplicables"
 tags = [
@@ -9,7 +9,7 @@ tags = [
 +++
 
 
-***Hay algo que me llena de dudas hace unos cuantos días***
+***Las restricciones sanitarias y las dudas que me genera***
 
 Se que el virus existe, se que hay muchas personas infectadas, se hay que personas muriendo por causa del mismo. 
 
