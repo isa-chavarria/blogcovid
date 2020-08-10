@@ -2,7 +2,7 @@
 author = "Isa Chavarria"
 title = "Coronavirus la otra cara de Costa Rica"
 date = "2020-08-10"
-description = "Restricciones sanitarias"
+description = "La otra cara del covid en Costa Rica y como se ven afectados muchos"
 tags = [
     "Covid","Costa Rica",
 ]
