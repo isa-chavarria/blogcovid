@@ -1,8 +1,8 @@
 +++
 author = "Isa Chavarria"
-title = "Tratamiento contra el COVID-19 a base de plasma de caballos"
-date = "2020-08-11"
-description = "Un tratamiento para el coronavirus desarrollado en Costa Rica."
+title = "Tratamiento contra el Covid"
+date = "2020-08-07"
+description = "Como se presento el primer caso de coronavirus en Costa Rica."
 tags = [
     "Covid","Costa Rica",
 ]

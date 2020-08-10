@@ -41,4 +41,3 @@ Los casos siguen aumentando y no se salida pronta a la incertidumbre generada po
 Imagen tomada de la pagina del Ministerio de Salud
 ![recommendations](/img/recomendaciones.jpg)
 
-
