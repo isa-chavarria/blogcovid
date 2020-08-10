@@ -8,36 +8,32 @@ tags = [
 ]
 +++
 
-El día 5 de marzo del 2020, el Ministerio de Salud de Costa Rica, empezaba con esta difícil tarea a la cual se enfrentaría día con día con el fin de cuidar la salud de toda la población de nuestro país.
+El día 5 de marzo del 2020, el Ministerio de Salud de Costa Rica, empezaba con esta difícil tarea a la cual se enfrentaría día tras día, esto con el fin de cuidar la salud de toda la población costarricense.
 
-Este día se daba a conocer el primer caso sospechoso por Covid-19 en Costa Rica. Se trataba de una mujer costarricense, de 52 años, la cual estuvo en Italia y que llegó al país el día 29 de febrero sin síntomas que coincidan con la definición de caso, iniciando posteriormente con la sintomatología.
+Ese día se dio a conocer el primer caso sospechoso de Covid-19 en Costa Rica. Se trataba de una mujer costarricense, de 52 años, la cual estuvo en Italia y llegó al país el día 29 de febrero, cual no presentaba síntomas cuando ingreso al país, posteriormente iniciaron los síntomas. En aquel momento fue únicamente un caso sospecho, la historia para nuestro país dependia de ese resultado.
 
-En aquel momento era solo un caso sospechoso, no se podía afirmar si teníamos o no casos confirmados del nuevo coronavirus en Costa Rica. Por lo que el Ministerio de Salud y la CCSS iniciaron con los protocolos para realizarle la prueba de este nuevo coronavirus. 
+Fue algo nuevo para Costa Rica, en aquel momento iniciaba el reto tanto Ministerio de Salud como para la Caja Costarricense del Seguro Social, debían de iniciar a realizar los protocolos y a tomar decisiones para velar por la salud de los costarricenses y por primera vez se realizaba la prueba para determinar si era una víctima más del Covid-19.
 
-La prueba da el resultado de negativo de esta manera se logra confirmar que esta persona no esta contagiada por el virus. Hasta el día 5 de marzo Costa Rica no presentaba pacientes con el nuevo virus. 
+La larga esperaba había finalizado, llegó el día que el Ministro de Salud iba a dar el resultado, para fortuna de todos el resultado fue negative, descargada como la posible primera víctima del país.
 
-El pasado 06 de marzo, solo un día después de nuestro primer caso sospechoso y a través de un comunicado emitido por el ministro de salud de Costa Rica, Daniel Salas (Ministro de Salud de Costa Rica), se informaba que una mujer de 49 años que había ingresado al país el 01 de marzo sin presentar síntomas, fue hasta días después de haber ingresado al país que comenzó a presentar síntomas. Por lo que se procede con el protocolo y se realizan las pruebas para determinar si portaba o no el nuevo virus. La prueba lanzo un resultado positivo por lo que se procede aislarla en San José junto con su esposo.
+Pasaron los días; 5 de marzo en Costa Rica aún no habían casos positivos de coronavirus, al día siguiente nos dan la noticia de un nuevo caso sospechoso el mismo día a través de un Comunicado Oficial emitido por el Ministerio de Salud de Costa Rica, el Dr. Daniel Salas Peraza (Ministro de Salud), informaba de una mujer de 49 años y extranjera, había ingresado al país el 01 de marzo acompañada de su esposo, no presentaba síntomas relacionados al virus al ingresar, días después presento los síntomas. Se procede con el protocol y se realizan las pruebas para determinar sí era portadora del virus. Lamentablemente, la prueba dio positivo y automáticamente se procede con el aislamiento junto con su esposo. 
+Convirtiéndose así en el primer caso positivo de Covid- 19 en Costa Rica y en Centroamérica. 
 
-Convirtiéndose así en el primer caso positivo de COVID 19 en Costa Rica y en Centroamérica. 
-
-Para el 7 de abril del 2020, es decir solo un mes después del primer caso Costa Rica ya registraba 483 casos acumulados. Como se logra observar en el siguiente grafico:
-
+Para el 7 de abril del 2020, tan solo un mes después del primer caso positivo de Covid-19 en Costa Rica ya se registraban 483 casos acumulados. En el siguiente gráfico podrán observer el avance desde el primer caso al día 7 de abril: 
 
  ![graphic](/img/April7.png)
  
-Un equipo del [Observatorio del Desarrollo (OdD)](https://oddapp2.shinyapps.io/CoronavirusCostaRica/)de la Universidad de Costa Rica, creó una plataforma digital interactiva para visualizar datos oficiales y actualizados del Ministerio de Salud, sobre el COVID-19 a nivel nacional y cantonal.
-La aplicación web pone a disposición del público un histórico de los casos confirmados y descartados desde el inicio de la pandemia, lo que permite identificar la evolución del virus en el transcurso del tiempo. Además, existe una sección donde es posible visualizar comparaciones en el número de casos por cantón.
-
-La información de la plataforma es actualizada de manera diaria mediante los datos oficiales que brinda el Ministerio de Salud en conferencia de prensa y redes sociales.
+Un equipo del [Observatorio del Desarrollo (OdD)](https://oddapp2.shinyapps.io/CoronavirusCostaRica/)de la Universidad de Costa Rica, creó una plataforma digital interactiva para visualizar los datos oficiales y actualizados del Ministerio de Salud, sobre el Covid-19 tanto a nivel nacional como cantonal. La aplicación web pone a disposición del público un histórico de los casos confirmados y descartados desde el inicio de la pandemia, lo que permite identificar la evolución del virus en el transcurso del tiempo. Además, existe una sección donde es posible visualizar comparaciones en el número de casos por cantón. La información de la plataforma es actualizada de manera diaria mediante los datos oficiales que brinda el Ministerio de Salud en conferencia de prensa y redes sociales oficiales.
 
 Al día de hoy 8 de agosto del 2020 se contabilizan 22 802 casos confirmados, 7589 personas recuperadas y 228 lamentables fallecimientos.
 
 Los casos siguen aumentando y no se salida pronta a la incertidumbre generada por este nuevo virus. Las recomendaciones son las mismas: 
-*	Lavarnos las manos
-*	Distanciamiento social 
-*	Quedarnos en casa
-*	Usar mascarilla
+*   Lavarnos las manos.
+*   Distanciamiento social. 
+*   Quedarnos en casa.
+*   Usar mascarilla.
 
 Imagen tomada de la pagina del Ministerio de Salud
 ![recommendations](/img/recomendaciones.jpg)
+
 
