@@ -1,6 +1,6 @@
 +++
 author = "Isa Chavarria"
-title = "Restricciones sanitarias para unos y no todos"
+title = "Restricciones sanitarias y las dudas que me genera"
 date = "2020-08-09"
 description = "Restriccion sanitaria en Costa Rica y sus diferencias inexplicables"
 tags = [
