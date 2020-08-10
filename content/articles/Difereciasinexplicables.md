@@ -2,7 +2,7 @@
 author = "Isa Chavarria"
 title = "Diferencias inexplicables"
 date = "2020-08-09"
-description = "Un tratamiento para el coronavirus desarrollado en Costa Rica."
+description = "Restriccion sanitaria en Costa Rica y sus diferencias inexplicables"
 tags = [
     "Covid","Costa Rica",
 ]
