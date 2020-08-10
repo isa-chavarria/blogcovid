@@ -1,6 +1,6 @@
 +++
 author = "Isa Chavarria"
-title = "Coronavirus la otra cara de la que no se quiera hablar en Costa Rica"
+title = "Coronavirus la otra cara de la que no se quiere hablar en Costa Rica"
 date = "2020-08-10"
 description = "La otra cara del covid en Costa Rica y como se ven afectados muchos"
 tags = [
