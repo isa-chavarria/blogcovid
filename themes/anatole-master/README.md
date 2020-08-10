@@ -54,7 +54,7 @@ git submodule update --remote --merge
 [params]
 title = "I'm Isa Chavarria"
 author = "Isa Chavarria"
-description = "Call me Jane"
+description = "Call me Isa"
 profilePicture = "images/profile.jpg"
 ```
 
@@ -104,7 +104,7 @@ Anatole supports multilingual page setups. All you need to do is to add the lang
 
   [Languages.de]
   title = "Mein blog"
-  description = "Ich bin Jane"
+  description = "Ich bin Isa"
   weight = 2
   LanguageName = "DE"
 ```
