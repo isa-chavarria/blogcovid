@@ -1,7 +1,7 @@
 +++
 author = "Isa Chavarria"
 title = "Tratamiento contra el Covid"
-date = "2020-08-07"
+date = "2020-08-10"
 description = "Un tratamiento contra el covid19 producido en Costa Rica."
 tags = [
     "Covid","Costa Rica",

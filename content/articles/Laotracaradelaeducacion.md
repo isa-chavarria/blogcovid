@@ -1,7 +1,7 @@
 +++
 author = "Isa Chavarria"
 title = "La otra cara de la Educación en la Pandemia: Lo que la prensa no muestra."
-date = "2020-08-07"
+date = "2020-08-11"
 description = "Un poco de mi opinion sobre el sistema de educacion y estos tiempos de pandemia."
 tags = [
     "Covid","Costa Rica",
